@@ -1,2 +1,1 @@
-# twrp-device_infinix_Infinix-X6880
-Infinix Hot 50 Pro+
+## OrangeFox Recovery tree for Infinix Hot 50 Pro+ ( Infinix-X6880 )
